@@ -160,4 +160,4 @@ if __name__ == '__main__':
 			q.put(item)
 			w.put(item)
 		q.join()
-		w.join()
+		w.join()h
